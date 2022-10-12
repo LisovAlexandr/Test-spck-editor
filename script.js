@@ -1,3 +1,5 @@
 document.write('it works!')
 console.log('log works!')
 console.log('log2 works')
+let userMsg = prompt('your message')
+document.write(userMsg)
